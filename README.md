@@ -2,6 +2,9 @@
 
 An AI-powered chatbot that answers questions from uploaded PDF documents using Retrieval-Augmented Generation (RAG).
 
+## 🔗 Live Demo
+https://document-chatbot-il94tmthgvbkg4yynxe7kz.streamlit.app
+
 ## 🚀 Features
 - Upload any PDF document
 - Ask questions in natural language
